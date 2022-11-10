@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-family: 0;
+	font-size: ;
+	font-weight: ;
+	color: ;
+}
+
+h2{
+	font-family: 0;
+	font-size: ;
+	font-weight: ;
+	color: ;
+}
+.container{
+	max-width: 1080px;
+	margin: 0 auto;
+	padding: 0 50px;
+	box-sizing: border-box;
+	
+}
+.main-box{
+	
+	display:flex;
+	flex-wrap: wrap;
+	column-gap: 10px;
+	width:800px;
+
+}
+
+.box{
+	height:200px;
+	width:200px;
+	border:1px solid blue;
+	background:green;
+}
